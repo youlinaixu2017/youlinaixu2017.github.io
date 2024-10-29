@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>踩坑 on anlianli</title>
+        <link>http://localhost:1313/categories/%E8%B8%A9%E5%9D%91/</link>
+        <description>Recent content in 踩坑 on anlianli</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>loliloli</copyright>
+        <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%B8%A9%E5%9D%91/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>stack主题美化踩坑</title>
+        <link>http://localhost:1313/p/test-chinese/</link>
+        <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/test-chinese/</guid>
+        <description>&lt;img src="https://img3.gelbooru.com/images/7b/19/7b1916e6b82a3f00cc512a041abc1e3a.jpg" alt="Featured image of post stack主题美化踩坑" /&gt;&lt;h2 id=&#34;修改明暗模式切换图标&#34;&gt;修改明暗模式切换图标
+&lt;/h2&gt;&lt;p&gt;SVG图像本质上是一段代码，stack的SCSS需要绑定SVG图像代码的ID才行（也怪我几年没碰前端，早忘完了），用vs code打开svg图像，在代码里添加SCSS绑定ID
+浅色模式里SVG打开，添加  class=&amp;ldquo;icon icon-tabler icon-tabler-light&amp;rdquo;
+暗色模式里SVG打开，添加  class=&amp;ldquo;icon icon-tabler icon-tabler-dark&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;所有样式的修改&#34;&gt;所有样式的修改
+&lt;/h2&gt;&lt;p&gt;所有样式的修改基本都集中在assets/scss/custom.scss
+配置修改在hugo.yaml&lt;/p&gt;
+&lt;h2 id=&#34;头像修改&#34;&gt;头像修改
+&lt;/h2&gt;&lt;p&gt;注意，avatar.local默认值：true（如果设置为 true，头像图片应放置在 assets/${avatar.src}，且图像会压缩）
+所以，必须设置为false 才能自定义文件目录并且不被压缩！&lt;/p&gt;
+&lt;h2 id=&#34;背景图片设置踩坑&#34;&gt;背景图片设置踩坑！
+&lt;/h2&gt;&lt;p&gt;背景图片直接在body里设置css，如果增加background-attachment: fixed设置图像不随内容滚动会导致页面一直刷新卡顿，必须在body下新建一个&lt;div&gt;,用这个容器设置背景图片(感谢我大学时候学习前端时候手工搭建的第一个网站的遗泽)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img3.gelbooru.com/images/7b/19/7b1916e6b82a3f00cc512a041abc1e3a.jpg&#34;
+	
+	
+	
+	loading=&#34;eager&#34;
+	
+		alt=&#34;分享&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
