@@ -2,134 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://youlinaixu2017.github.io/</loc>
-    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <loc>https://anli.loliloli.us.kg/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://youlinaixu2017.github.io/en/"
+                href="https://anli.loliloli.us.kg/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://youlinaixu2017.github.io/ja/"
+                href="https://anli.loliloli.us.kg/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://youlinaixu2017.github.io/"
+                href="https://anli.loliloli.us.kg/"
                 />
   </url><url>
-    <loc>https://youlinaixu2017.github.io/categories/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    <loc>https://anli.loliloli.us.kg/categories/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://youlinaixu2017.github.io/en/categories/"
+                href="https://anli.loliloli.us.kg/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://youlinaixu2017.github.io/ja/categories/"
+                href="https://anli.loliloli.us.kg/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://youlinaixu2017.github.io/categories/"
+                href="https://anli.loliloli.us.kg/categories/"
                 />
   </url><url>
-    <loc>https://youlinaixu2017.github.io/page/</loc>
+    <loc>https://anli.loliloli.us.kg/post/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/categories/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/p/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/tags/bug/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/categories/hugo/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/page/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://youlinaixu2017.github.io/post/</loc>
+    <loc>https://anli.loliloli.us.kg/p/fix-bug/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://youlinaixu2017.github.io/p/test-chinese/</loc>
+    <loc>https://anli.loliloli.us.kg/tags/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anli.loliloli.us.kg/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://anli.loliloli.us.kg/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://anli.loliloli.us.kg/tags/"
+                />
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/p/food-20241105/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://youlinaixu2017.github.io/categories/%E8%B8%A9%E5%9D%91/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/about/</loc>
+    <loc>https://anli.loliloli.us.kg/about/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://youlinaixu2017.github.io/archives/</loc>
+    <loc>https://anli.loliloli.us.kg/p/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%BC%8A%E8%8E%89%E9%9B%85/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anli.loliloli.us.kg/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://anli.loliloli.us.kg/links/</loc>
   </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://youlinaixu2017.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://youlinaixu2017.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://youlinaixu2017.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/links/</loc>
-  </url><url>
-    <loc>https://youlinaixu2017.github.io/search/</loc>
+    <loc>https://anli.loliloli.us.kg/search/</loc>
   </url>
 </urlset>
